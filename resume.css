@@ -17,10 +17,6 @@ hr {
   line-height: 0px;
 }
 
-.entry:hover {
-  border: 3px solid black;
-}
-
 .right {
   float: right;
 }
