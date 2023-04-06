@@ -1,0 +1,32 @@
+/*
+  Niko Permilovsky
+  4/3/2023
+  Section AG, Tara Wueger, Allison Ho
+
+  This is the general CSS file for my CP1 assignment. It uses an iconic
+  "coffee" background color to make reading easier, as well as
+  Google's Roboto font.
+*/
+body {
+  background-color: rgb(221, 221, 221);
+  font-family: "Roboto", sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+p, pre {
+  font-size: larger;
+}
+
+img {
+  border: 2px solid black;
+}
+
+h1, h2, h3 {
+  margin-bottom: 0px;
+}
+
+li {
+  margin: 10px 0;
+}
